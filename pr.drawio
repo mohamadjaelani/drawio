@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="FIFVcEWHvR7XsRV-rv_e">
-    <mxGraphModel dx="607" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QVb0T6lndZmD0BBfcQtU-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=20;" value="dik: harga = 200.000&lt;div&gt;diskon= 15%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;berapa harga kaos?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;200.000 x 15% = 200.000 x 15&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;100&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.000.000&lt;/div&gt;&lt;div&gt;100&lt;/div&gt;" vertex="1">
+          <mxGeometry height="310" width="680" x="35" y="680" as="geometry" />
+        </mxCell>
         <mxCell id="QVb0T6lndZmD0BBfcQtU-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=20;" value="dik;&amp;nbsp; harga beli: 40.000.000&lt;div&gt;harga jual : 36.000.000&lt;/div&gt;&lt;div&gt;dit: berapa persen kerugian?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;kerugian: 40.000.000 - 36.000.000 = 4.000.000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.000.000&lt;/div&gt;&lt;div&gt;40.000.000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;jadi kerugiannya adalah 10%&lt;/div&gt;" vertex="1">
           <mxGeometry height="310" width="680" x="120" y="380" as="geometry" />
         </mxCell>
@@ -27,6 +30,15 @@
         </mxCell>
         <mxCell id="QVb0T6lndZmD0BBfcQtU-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=20;" value="x 100 = 10%" vertex="1">
           <mxGeometry height="30" width="230" x="260" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="QVb0T6lndZmD0BBfcQtU-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="186" y="832" as="sourcePoint" />
+            <mxPoint x="336" y="832" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QVb0T6lndZmD0BBfcQtU-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=20;" value="=200.000 x 15 = 3000000" vertex="1">
+          <mxGeometry height="30" width="255" x="345" y="810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
