@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="lVCeAQP5J8Vv2JuceWTL">
+    <mxGraphModel dx="781" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="emXdRVptBhWksskM6nTK-1" parent="0" />
+        <mxCell id="emXdRVptBhWksskM6nTK-2" parent="emXdRVptBhWksskM6nTK-1" style="rounded=0;whiteSpace=wrap;html=1;" value="sources" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="emXdRVptBhWksskM6nTK-3" parent="emXdRVptBhWksskM6nTK-1" style="rounded=0;whiteSpace=wrap;html=1;" value="operations" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="emXdRVptBhWksskM6nTK-4" parent="emXdRVptBhWksskM6nTK-1" style="rounded=0;whiteSpace=wrap;html=1;" value="destinations" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="emXdRVptBhWksskM6nTK-5" parent="emXdRVptBhWksskM6nTK-1" style="rounded=0;whiteSpace=wrap;html=1;" value="application.yaml" vertex="1">
+          <mxGeometry height="30" width="490" x="90" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="emXdRVptBhWksskM6nTK-6" parent="emXdRVptBhWksskM6nTK-1" style="rounded=0;whiteSpace=wrap;html=1;" value="spring.config.activate.on-profile=source" vertex="1">
+          <mxGeometry height="30" width="150" x="90" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="emXdRVptBhWksskM6nTK-7" parent="emXdRVptBhWksskM6nTK-1" style="rounded=0;whiteSpace=wrap;html=1;" value="spring.config.activate.on-profile=operations" vertex="1">
+          <mxGeometry height="30" width="190" x="240" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="emXdRVptBhWksskM6nTK-8" parent="emXdRVptBhWksskM6nTK-1" style="rounded=0;whiteSpace=wrap;html=1;" value="spring.config.activate.on-profile=destination" vertex="1">
+          <mxGeometry height="30" width="150" x="430" y="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
